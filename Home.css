@@ -1,0 +1,9 @@
+ .u-section-1 {
+  min-height: 100vh;
+}
+
+@media (max-width: 1080px) {
+   .u-section-1 {
+    min-height: 793px;
+  }
+}
